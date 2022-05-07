@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="App">
-    
+      <h1>This is the Main App</h1>
     </div>
   );
 }
